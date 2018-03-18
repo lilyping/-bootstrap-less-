@@ -1,0 +1,129 @@
+@charset "utf-8";
+#sortnav {
+  padding: 0;
+}
+#index-1 {
+  padding-top: 4px;
+  line-height: 16px;
+}
+#index-1 a span {
+  background: #000;
+  margin-left: 10px;
+}
+#index-1 div p {
+  color: #d17f8c;
+  font-size: 12px;
+  margin-left: 4px;
+  font-weight: bold;
+}
+#index-2 {
+  margin-top: 6px;
+  opacity: 0.6;
+}
+#index-2 span {
+  display: block;
+  font-size: 18px;
+  color: #000;
+  font-weight: bold;
+}
+#index-3 {
+  padding-top: 4px;
+}
+#index-3 span {
+  margin-top: 8px;
+}
+#bottom1 {
+  margin: 0;
+  padding: 0;
+}
+#bottom1 .container-fluid .row div:nth-of-type(4) a p {
+  color: #d17f8c;
+  margin-left: -8px;
+}
+#bottom1 .container-fluid .row div:nth-of-type(4) a span {
+  color: #d17f8c;
+}
+#bottom1 .container-fluid .row div a {
+  color: #d17f8c;
+  font-weight: bold;
+}
+#bottom1 .container-fluid .row div a p {
+  font-size: 12px;
+  color: #525252;
+}
+#bottom1 .container-fluid .row div a span {
+  margin-top: 8px;
+  font-size: 16px;
+  color: #525252;
+  margin-left: 2px;
+}
+#informD {
+  background: #f77f7a;
+  margin-top: 12px;
+}
+#informD button {
+  padding-top: 10px;
+}
+#informD button span {
+  color: #000;
+}
+#informD p span {
+  padding-top: 8px;
+}
+#informD p span:nth-of-type(2) {
+  font-size: 14px;
+  color: #fccfcd;
+  font-weight: bold;
+}
+#informD p span:nth-of-type(1) {
+  color: #fccfcd;
+  margin-top: 4px;
+}
+.shoppingD {
+  margin-top: 40px;
+  background: #fff;
+}
+.shoppingD .container .shoppingR {
+  border-bottom: 1px solid #857a7a;
+}
+.shoppingD .container .shoppingR div span {
+  font-size: 14px;
+}
+.shoppingD .container .shoppingR div:nth-of-type(1) {
+  border: 1px solid #000;
+}
+.shoppingD .container .shoppingR div:nth-of-type(1) a {
+  display: block;
+  text-align: center;
+  font-size: 14px;
+  color: #000;
+}
+.shoppingD .container .shoppingS {
+  margin-top: 6px;
+}
+.shoppingD .container .shoppingS div:nth-of-type(2) {
+  margin-top: 4px;
+}
+.shoppingD .container .shoppingS div:nth-of-type(2) span {
+  font-size: 13px;
+}
+.shoppingD .container .shoppingS div:nth-of-type(2) span:nth-of-type(2) {
+  font-size: 14px;
+  border: 1px solid #000;
+  font-weight: bold;
+}
+.choice1 .container .choice2 div p:nth-of-type(2) {
+  font-size: 14px;
+  color: red;
+}
+.choice1 .container .choice2 div a {
+  color: #000;
+  font-size: 12px;
+  border: 1px solid #000;
+}
+.more1 .container {
+  margin-top: 40px;
+}
+.more1 .container p {
+  font-size: 12px;
+}

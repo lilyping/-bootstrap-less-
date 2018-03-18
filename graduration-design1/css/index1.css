@@ -1,0 +1,620 @@
+@charset "utf-8";
+#adverImg {
+  display: none;
+}
+#adverImg img {
+  margin: 0 auto;
+}
+#index-1 {
+  padding-top: 4px;
+  line-height: 16px;
+}
+#index-1 a span {
+  background: #fff;
+  margin-left: 10px;
+}
+#index-1 div p {
+  color: #fff;
+  font-size: 12px;
+  margin-left: 4px;
+}
+#index-2 {
+  margin-top: 6px;
+  opacity: 0.6;
+  background: #d17f8c;
+  margin-left: -14px;
+}
+#index-2 span {
+  background: none;
+  border: none;
+}
+#index-2 input {
+  background: none;
+  border: none;
+}
+#index-2 input:focus {
+  background: none;
+  border: none;
+}
+#index-2 input::-webkit-input-placeholder {
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+}
+#index-2 input:-moz-placeholder {
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+}
+#index-2 input::-moz-placeholder {
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+}
+#index-3 {
+  padding-top: 4px;
+}
+#index-3 p {
+  font-size: 12px;
+  color: #fff;
+}
+#myCarousel .carousel-inner div:nth-of-type(1) {
+  background-color: #8d00ff;
+}
+#myCarousel .carousel-inner div:nth-of-type(2) {
+  background-color: #a14131;
+}
+#myCarousel .carousel-inner div:nth-of-type(3) {
+  background-color: #6d4278;
+}
+#myCarousel .carousel-inner div:nth-of-type(4) {
+  background-color: #9f0e13;
+}
+#myCarousel .carousel-inner div:nth-of-type(5) {
+  background-color: #e5376c;
+}
+#myCarousel .carousel-inner div img {
+  margin: 0 auto;
+}
+#tab1 {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+#tab1 .caption p a {
+  color: #000;
+  font-size: 12px;
+}
+@media (min-width: 768px) {
+  #index-1 div p {
+    color: #fff;
+    font-size: 14px;
+  }
+  #index-3 p {
+    color: #fff;
+    font-size: 14px;
+  }
+  #tab1 .caption p a {
+    color: #000;
+    font-size: 14px;
+  }
+  .rowb1 .container .row div:nth-of-type(1) p:nth-of-type(1) {
+    font-size: 18px;
+    color: #1dc2b1;
+    font-weight: bold;
+  }
+  .rowb1 .container .row div:nth-of-type(1) p:nth-of-type(2) {
+    font-size: 18px;
+    color: #1dc2b1;
+    border: 1px solid #1dc2b1;
+  }
+  .rowb1 .container .row div:nth-of-type(1) p:nth-of-type(2) span {
+    display: block;
+    float: right;
+    width: 50%;
+    background-color: #1dc2b1;
+    color: #fff;
+    margin-left: 6px;
+  }
+  .rowb1 .container .row div:nth-of-type(1) a img {
+    margin: 0 auto;
+  }
+  .rowb1 .container .row div:nth-of-type(2) p:nth-of-type(1) {
+    font-size: 18px;
+    color: #fca267;
+    font-weight: bold;
+  }
+  .rowb1 .container .row div:nth-of-type(2) p:nth-of-type(2) {
+    font-size: 14px;
+    color: #fca267;
+  }
+  .rowb1 .container .row div:nth-of-type(2) a img {
+    margin: 0 auto;
+  }
+  .rowb1 .container .row div:nth-of-type(3) p:nth-of-type(1) {
+    font-size: 18px;
+    color: #3ea6f6;
+    font-weight: bold;
+  }
+  .rowb1 .container .row div:nth-of-type(3) p:nth-of-type(2) {
+    font-size: 14px;
+    color: #3ea6f6;
+  }
+  .rowb1 .container .row div:nth-of-type(3) a img {
+    margin: 0 auto;
+  }
+}
+@media (min-width: 992px) {
+  #index-1 div p {
+    color: #fff;
+    font-size: 15px;
+  }
+  #index-3 p {
+    color: #fff;
+    font-size: 15px;
+  }
+  #tab1 .caption p a {
+    color: #000;
+    font-size: 15px;
+  }
+  .rowb1 .container .row div:nth-of-type(1) p:nth-of-type(1) {
+    font-size: 19px;
+    color: #1dc2b1;
+    font-weight: bold;
+  }
+  .rowb1 .container .row div:nth-of-type(1) p:nth-of-type(2) {
+    font-size: 15px;
+    color: #1dc2b1;
+    border: 1px solid #1dc2b1;
+  }
+  .rowb1 .container .row div:nth-of-type(1) p:nth-of-type(2) span {
+    display: block;
+    float: right;
+    width: 50%;
+    background-color: #1dc2b1;
+    color: #fff;
+    margin-left: 6px;
+  }
+  .rowb1 .container .row div:nth-of-type(1) a img {
+    margin: 0 auto;
+  }
+  .rowb1 .container .row div:nth-of-type(2) p:nth-of-type(1) {
+    font-size: 19px;
+    color: #fca267;
+    font-weight: bold;
+  }
+  .rowb1 .container .row div:nth-of-type(2) p:nth-of-type(2) {
+    font-size: 15px;
+    color: #fca267;
+  }
+  .rowb1 .container .row div:nth-of-type(2) a img {
+    margin: 0 auto;
+  }
+  .rowb1 .container .row div:nth-of-type(3) p:nth-of-type(1) {
+    font-size: 19px;
+    color: #3ea6f6;
+    font-weight: bold;
+  }
+  .rowb1 .container .row div:nth-of-type(3) p:nth-of-type(2) {
+    font-size: 15px;
+    color: #3ea6f6;
+  }
+  .rowb1 .container .row div:nth-of-type(3) a img {
+    margin: 0 auto;
+  }
+}
+@media (min-width: 1200px) {
+  #index-1 div p {
+    color: #fff;
+    font-size: 16px;
+  }
+  #index-3 p {
+    color: #fff;
+    font-size: 16px;
+  }
+  #tab1 .caption p a {
+    color: #000;
+    font-size: 16px;
+  }
+  .rowb1 .container .row div:nth-of-type(1) p:nth-of-type(1) {
+    font-size: 20px;
+    color: #1dc2b1;
+    font-weight: bold;
+  }
+  .rowb1 .container .row div:nth-of-type(1) p:nth-of-type(2) {
+    font-size: 15px;
+    color: #1dc2b1;
+    border: 1px solid #1dc2b1;
+  }
+  .rowb1 .container .row div:nth-of-type(1) p:nth-of-type(2) span {
+    display: block;
+    float: right;
+    width: 50%;
+    background-color: #1dc2b1;
+    color: #fff;
+    margin-left: 6px;
+  }
+  .rowb1 .container .row div:nth-of-type(1) a img {
+    margin: 0 auto;
+  }
+  .rowb1 .container .row div:nth-of-type(2) p:nth-of-type(1) {
+    font-size: 20px;
+    color: #fca267;
+    font-weight: bold;
+  }
+  .rowb1 .container .row div:nth-of-type(2) p:nth-of-type(2) {
+    font-size: 15px;
+    color: #fca267;
+  }
+  .rowb1 .container .row div:nth-of-type(2) a img {
+    margin: 0 auto;
+  }
+  .rowb1 .container .row div:nth-of-type(3) p:nth-of-type(1) {
+    font-size: 20px;
+    color: #3ea6f6;
+    font-weight: bold;
+  }
+  .rowb1 .container .row div:nth-of-type(3) p:nth-of-type(2) {
+    font-size: 15px;
+    color: #3ea6f6;
+  }
+  .rowb1 .container .row div:nth-of-type(3) a img {
+    margin: 0 auto;
+  }
+}
+#myCarouse2 .carousel-inner {
+  height: 40px;
+}
+#myCarouse2 .carousel-inner h5 {
+  margin-top: -4px;
+  float: left;
+}
+#myCarouse2 .carousel-inner h5 span {
+  color: #fff;
+  background: red;
+}
+#myCarouse2 .carousel-inner .pull-right a {
+  display: block;
+  color: #000;
+  font-size: 14px;
+  margin-top: -6px;
+}
+#myCarouse2 .item {
+  float: left;
+  margin-top: -6px;
+}
+#myCarouse2 .item span strong {
+  color: red;
+}
+#miaosha1 .jumbnail {
+  margin-left: 4px;
+}
+#miaosha1 .jumbnail h4 {
+  color: red;
+  font-weight: bold;
+  float: left;
+}
+#miaosha1 .jumbnail h4 small {
+  padding-left: 6px;
+  color: #000;
+}
+/*秒杀*/
+.clear-fix {
+  zoom: 1;
+  float: left;
+}
+.clear-fix:after {
+  clear: both;
+  content: "";
+  display: block;
+  visibility: hidden;
+}
+.rag {
+  width: 30px;
+  height: 20px;
+  margin-top: 12px;
+  margin-left: 4px;
+}
+.rag .zero {
+  position: relative;
+  float: left;
+  _display: inline;
+  margin-left: 3.3%;
+  height: 100%;
+  width: 30%;
+}
+.rag .zero .dot {
+  position: absolute;
+  width: 25%;
+  background-color: #ccc;
+}
+.rag .zero .sel {
+  background-color: #f00;
+}
+#wrap1 {
+  width: 1026px;
+  height: 220px;
+  overflow: hidden;
+}
+#wrap1 #content1 {
+  margin-top: 0px;
+  margin-left: 0px;
+  padding: 0px;
+  width: 200%;
+  height: 100%;
+  list-style: none;
+}
+#wrap1 #content1 li {
+  width: 177px;
+  height: 100%;
+  float: left;
+  text-align: center;
+  padding-top: 50px;
+  padding-left: 10px;
+}
+#wrap1 #content1 li a {
+  font: 20px "宋体";
+  color: red;
+}
+.spring1 {
+  background: #ac0504;
+}
+.spring1 img {
+  margin: 0 auto;
+}
+.rowb1 .container .row div:nth-of-type(1) p:nth-of-type(1) {
+  font-size: 20px;
+  color: #1dc2b1;
+  font-weight: bold;
+}
+.rowb1 .container .row div:nth-of-type(1) p:nth-of-type(2) {
+  font-size: 14px;
+  color: #1dc2b1;
+  border: 1px solid #1dc2b1;
+}
+.rowb1 .container .row div:nth-of-type(1) p:nth-of-type(2) span {
+  display: block;
+  float: right;
+  width: 50%;
+  background-color: #1dc2b1;
+  color: #fff;
+  margin-left: 6px;
+}
+.rowb1 .container .row div:nth-of-type(1) a img {
+  margin: 0 auto;
+}
+.rowb1 .container .row div:nth-of-type(2) p:nth-of-type(1) {
+  font-size: 20px;
+  color: #fca267;
+  font-weight: bold;
+}
+.rowb1 .container .row div:nth-of-type(2) p:nth-of-type(2) {
+  font-size: 14px;
+  color: #fca267;
+}
+.rowb1 .container .row div:nth-of-type(2) a img {
+  margin: 0 auto;
+}
+.rowb1 .container .row div:nth-of-type(3) p:nth-of-type(1) {
+  font-size: 20px;
+  color: #3ea6f6;
+  font-weight: bold;
+}
+.rowb1 .container .row div:nth-of-type(3) p:nth-of-type(2) {
+  font-size: 14px;
+  color: #3ea6f6;
+}
+.rowb1 .container .row div:nth-of-type(3) a img {
+  margin: 0 auto;
+}
+.rowb1 .container .row div:nth-of-type(4) p:nth-of-type(1) {
+  font-size: 20px;
+  color: #fca267;
+  font-weight: bold;
+}
+.rowb1 .container .row div:nth-of-type(4) p:nth-of-type(2) {
+  font-size: 14px;
+  color: #fca267;
+}
+.rowb1 .container .row div:nth-of-type(4) a img {
+  margin: 0 auto;
+}
+.rowb1 .container .row div:nth-of-type(5) p:nth-of-type(1) {
+  font-size: 20px;
+  color: #3ea6f6;
+  font-weight: bold;
+}
+.rowb1 .container .row div:nth-of-type(5) p:nth-of-type(2) {
+  font-size: 14px;
+  color: #3ea6f6;
+}
+.rowb1 .container .row div:nth-of-type(5) a img {
+  margin: 0 auto;
+}
+.life1 div {
+  font-size: 20px;
+  color: #ff4a7d;
+}
+.life1 div span {
+  color: #ff7b0d;
+}
+.Slife .container .row div:nth-of-type(1) p:nth-of-type(1) {
+  color: #000;
+}
+.Slife .container .row div:nth-of-type(1) p:nth-of-type(2) {
+  border: none;
+  color: #ff5354;
+}
+.Slife .container .row div:nth-of-type(2) p:nth-of-type(1) {
+  color: #000;
+}
+.Slife .container .row div:nth-of-type(2) p:nth-of-type(2) {
+  border: none;
+  color: #ccc;
+  font-weight: bold;
+}
+.Slife .container .row div:nth-of-type(3) p:nth-of-type(1) {
+  color: #000;
+}
+.Slife .container .row div:nth-of-type(3) p:nth-of-type(2) {
+  border: none;
+  color: #ff5354;
+}
+.Slife .container .row div:nth-of-type(4) p:nth-of-type(1) {
+  color: #000;
+}
+.Slife .container .row div:nth-of-type(4) p:nth-of-type(2) {
+  border: none;
+  color: #ccc;
+  font-weight: bold;
+}
+#myCarouselS2 #lun1 div:nth-of-type(1) {
+  background-color: #ffcbe5;
+}
+#myCarouselS2 #lun1 div:nth-of-type(2) {
+  background-color: #4bcdfe;
+}
+#myCarousel1 #lun2 div:nth-of-type(1) {
+  background-color: #00b1cb;
+}
+#myCarousel1 #lun2 div:nth-of-type(2) {
+  background-color: #ff465b;
+}
+#myCarouselS3 #lun3 div:nth-of-type(1) {
+  background-color: #e5d0b5;
+}
+#myCarouselS3 #lun3 div:nth-of-type(2) {
+  background-color: #f90717;
+}
+.life2 .container .life3 div:nth-of-type(1) p:nth-of-type(1) {
+  color: #000;
+  font-weight: bold;
+}
+.life2 .container .life3 div:nth-of-type(1) p:nth-of-type(2) {
+  color: #ff5354;
+}
+.life2 .container .life3 div:nth-of-type(2) p:nth-of-type(1) {
+  color: #000;
+  font-weight: bold;
+}
+.life2 .container .life3 div:nth-of-type(2) p:nth-of-type(2) {
+  color: #ff5354;
+}
+.life2 .container .life3 div:nth-of-type(3) p:nth-of-type(1) {
+  color: #000;
+  font-weight: bold;
+}
+.life2 .container .life3 div:nth-of-type(3) p:nth-of-type(2) {
+  color: #ff5354;
+}
+.life2 .container .life3 div:nth-of-type(4) p:nth-of-type(1) {
+  color: #000;
+  font-weight: bold;
+}
+.life2 .container .life3 div:nth-of-type(4) p:nth-of-type(2) {
+  color: #ff5354;
+}
+.life2 .container .life3 div:nth-of-type(5) p:nth-of-type(1) {
+  color: #000;
+  font-weight: bold;
+}
+.life2 .container .life3 div:nth-of-type(5) p:nth-of-type(2) {
+  color: #ff5354;
+}
+.life2 .container .life3 div:nth-of-type(6) p:nth-of-type(1) {
+  color: #000;
+  font-weight: bold;
+}
+.life2 .container .life3 div:nth-of-type(6) p:nth-of-type(2) {
+  color: #ff5354;
+}
+.goodshop1 .container-fluid a {
+  font-size: 12px;
+  color: #000;
+}
+.Slife2 .container .row div:nth-of-type(1) a img {
+  margin-top: 14px;
+}
+.Slife2 .container .row div:nth-of-type(1) a .caption {
+  background-color: #000;
+  opacity: 0.4;
+}
+.Slife2 .container .row div:nth-of-type(1) a .caption p {
+  text-align: center;
+  font-size: 14px;
+}
+.Slife2 .container .row div:nth-of-type(2) a .caption {
+  background-color: #000;
+  opacity: 0.4;
+  margin-top: 16px;
+}
+.Slife2 .container .row div:nth-of-type(2) a .caption p {
+  text-align: center;
+  font-size: 14px;
+}
+#Slife3 .container .row div p {
+  font-size: 16px;
+  color: #000;
+  font-weight: normal;
+}
+#Slife3 .container .row div:nth-of-type(1) p {
+  padding-left: 8px;
+}
+#Slife3 .container .row div:nth-of-type(1) a img {
+  margin-top: 14px;
+}
+.choice1 .container .choice2 div p:nth-of-type(2) {
+  font-size: 14px;
+  color: red;
+}
+.choice1 .container .choice2 div a {
+  color: #000;
+  font-size: 12px;
+  border: 1px solid #000;
+}
+.more1 .container {
+  margin-top: 40px;
+}
+.more1 .container p {
+  font-size: 12px;
+}
+#right {
+  display: none;
+}
+#right a {
+  text-decoration: none;
+}
+#right a span {
+  margin-top: -90px;
+}
+#right a p {
+  margin-top: -70px;
+  font-size: 8px;
+  font-weight: bold;
+}
+#bottom1 .container-fluid {
+  background-color: #f45454;
+  opactiy: 0.5;
+}
+#bottom1 .container-fluid .row div:nth-of-type(1) a p {
+  color: #fff;
+}
+#bottom1 .container-fluid .row div:nth-of-type(1) a span {
+  color: #fff;
+}
+#bottom1 .container-fluid .row div:nth-of-type(4) a p {
+  margin-left: -8px;
+}
+#bottom1 .container-fluid .row div a {
+  color: #d17f8c;
+  font-weight: bold;
+}
+#bottom1 .container-fluid .row div a p {
+  font-size: 12px;
+  color: #000;
+}
+#bottom1 .container-fluid .row div a span {
+  margin-top: 8px;
+  font-size: 16px;
+  color: #000;
+  margin-left: 2px;
+}

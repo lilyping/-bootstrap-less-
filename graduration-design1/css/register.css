@@ -1,0 +1,50 @@
+@charset "utf-8";
+.Reg {
+  text-align: center;
+  margin-top: 30px;
+}
+.Reg #file {
+  font-weight: bold;
+  color: #d17f8c;
+}
+.Reg .fileI #inputs {
+  margin: 0 auto;
+}
+.Reg .InputG {
+  margin-top: 30px;
+}
+.Reg .InputG .input-group {
+  margin: 0 auto;
+  border-bottom: 1px solid #000;
+}
+.Reg .InputG .input-group input {
+  background: none;
+  border: none;
+  margin-left: 10px;
+}
+.Reg .InputG .input-group input::-webkit-input-placeholder {
+  font-size: 16px;
+  color: #d17f8c;
+}
+.Reg .InputG .input-group input:-moz-placeholder {
+  font-size: 16px;
+  color: #d17f8c;
+}
+.Reg .InputG .input-group:nth-of-type(1) {
+  margin-top: 10px;
+}
+.Reg .InputG .input-group:nth-of-type(2) {
+  margin-top: 24px;
+}
+.Reg .InputG .input-group:nth-of-type(3) {
+  margin-top: 24px;
+}
+.Reg .InputG .input-group:nth-of-type(4) {
+  margin-top: 24px;
+}
+.Reg .InputG .input-group:nth-of-type(5) {
+  margin-top: 24px;
+}
+.Reg footer {
+  margin-top: 10px;
+}

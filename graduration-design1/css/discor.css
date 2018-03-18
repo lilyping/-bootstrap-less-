@@ -1,0 +1,124 @@
+@charset "utf-8";
+#sortnav {
+  padding: 0;
+}
+#index-1 {
+  padding-top: 4px;
+  line-height: 16px;
+}
+#index-1 a span {
+  background: #000;
+  margin-left: 10px;
+}
+#index-1 div p {
+  color: #d17f8c;
+  font-size: 12px;
+  margin-left: 4px;
+  font-weight: bold;
+}
+#index-2 {
+  margin-top: 6px;
+  opacity: 0.6;
+  margin: 0 auto;
+}
+#index-3 {
+  padding-top: 4px;
+}
+#index-3 p {
+  font-size: 12px;
+  color: #d17f8c;
+  font-weight: bold;
+}
+#bottom1 {
+  margin: 0;
+  padding: 0;
+}
+#bottom1 .container-fluid .row div:nth-of-type(3) a p {
+  color: #d17f8c;
+}
+#bottom1 .container-fluid .row div:nth-of-type(3) a span {
+  color: #d17f8c;
+}
+#bottom1 .container-fluid .row div a {
+  color: #d17f8c;
+  font-weight: bold;
+}
+#bottom1 .container-fluid .row div a p {
+  font-size: 12px;
+  color: #525252;
+}
+#bottom1 .container-fluid .row div a span {
+  margin-top: 8px;
+  font-size: 16px;
+  color: #525252;
+  margin-left: 2px;
+}
+#right {
+  display: none;
+}
+#right a {
+  text-decoration: none;
+}
+#right a span {
+  margin-top: -90px;
+}
+#right a p {
+  margin-top: -70px;
+  font-size: 8px;
+  font-weight: bold;
+}
+.hnav .container .row div {
+  margin-top: 70px;
+}
+.hnav .container .row div p {
+  font-size: 12px;
+}
+.panel-group .panel .panel-heading #collapseOne .container-fluid .row:nth-of-type(2) {
+  margin-top: 12px;
+}
+.panel-group .panel .panel-heading .panel-title .container-fluid .row div span {
+  display: block;
+  font-size: 12px;
+  line-height: 10px;
+}
+.ping1 {
+  display: -webkit-box !important;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-break: break-all;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+.Clothes {
+  display: -webkit-box !important;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-break: break-all;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+.Clothes a {
+  color: red;
+}
+.Clothes1 {
+  display: -webkit-box !important;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-break: break-all;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+.aticleD div.container .row div:nth-of-type(1) .container .row div:nth-of-type(2) {
+  font-size: 14px;
+}
+.aticleD div.container .row div:nth-of-type(2) img {
+  margin-top: 6px;
+}
+.more1 .container {
+  margin-top: 10px;
+}
+.more1 .container p a {
+  font-size: 12px;
+  color: #000;
+  font-weight: bold;
+}

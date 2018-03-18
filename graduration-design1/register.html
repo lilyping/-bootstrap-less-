@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
+        <title>小馋猫</title>
+        <link href="css/register.css" rel="stylesheet" />
+        <link href="css/bootstrap-theme.min.css" rel="stylesheet" />
+         <link href="css/bootstrap.min.css" rel="stylesheet" />
+         <link href="img/index/logo.ico" rel="icon" />
+    </head>
+    <body>
+    <div class="Reg">
+        <div id="Picture"></div>
+         <h4 id="file">上传头像</h4>
+         <form action="login.html" name="form3" enctype="multipart/form-data" onsubmit="return toVaild()">  
+         <div class="fileI"><input type="file" id="inputs" name="file1" required/></div>
+         <div class="InputG well">
+             <div class="input-group">
+             <span class="glyphicon glyphicon-phone"></span>
+             <input type="tel" placeholder="请输入手机号码" required maxlength="30" id="Inpu"/>
+         </div>
+         <div class="input-group">
+             <span class="  glyphicon glyphicon-user"></span>
+             <input type="text" placeholder="用户名" required maxlength="16"/>
+         </div>
+         <div class="input-group">
+             <span class="glyphicon glyphicon-lock"></span>
+             <input type="password" placeholder="请输入密码" required maxlength="16" id="Pass1"/>
+         </div>
+         <div class="input-group">
+             <span class="glyphicon glyphicon-lock"></span>
+             <input type="password" placeholder="密码再次确认" required maxlength="16" id="Pass2"/>
+         </div>
+         <div class="input-group">
+             <span class="glyphicon glyphicon-print"></span>
+             <input type="text" placeholder="请输入验证码" maxlength="4" required id="InB"/>
+             <button type="button" class="btn btn-danger btn-xs" id="btn">1234</button>
+         </div>
+          <br/>
+         </div>
+         
+         <input type="submit" name="submit" value="注册" id="Sub"  class="btn btn-primary"/> 
+         </form>
+         <footer>已有账号？<a href="login.html">登录</a></footer>
+    </div>
+    
+
+    <script src="js/jquery-1.9.1.min.js"></script>
+     <script src="js/bootstrap.min.js"></script>
+     <script src="js/register.js"></script>
+    
+    </body>
+</html>

@@ -1,0 +1,65 @@
+@charset "utf-8";
+#top1 {
+  background-image: url(../img/index2/back.png);
+  background-size: 100% 100%;
+}
+#top1 ul:nth-of-type(1) {
+  margin-top: 10px;
+}
+#top1 ul:nth-of-type(1) li a {
+  color: #fff;
+  font-size: 20px;
+}
+#top1 .loginD {
+  margin-left: 20px;
+}
+#top1 .loginD ul li:nth-of-type(1) a img {
+  padding-top: 20px;
+  padding-left: 4px;
+}
+#bottom1 {
+  margin: 0;
+  padding: 0;
+}
+#bottom1 .container-fluid .row div:nth-of-type(5) a p {
+  color: #d17f8c;
+}
+#bottom1 .container-fluid .row div:nth-of-type(5) a span {
+  color: #d17f8c;
+}
+#bottom1 .container-fluid .row div:nth-of-type(4) a p {
+  margin-left: -8px;
+}
+#bottom1 .container-fluid .row div a {
+  color: #d17f8c;
+  font-weight: bold;
+}
+#bottom1 .container-fluid .row div a p {
+  font-size: 12px;
+  color: #525252;
+}
+#bottom1 .container-fluid .row div a span {
+  margin-top: 8px;
+  font-size: 16px;
+  color: #525252;
+  margin-left: 2px;
+}
+.wordD .container {
+  margin-top: 10px;
+}
+.wordD .container:nth-of-type(2) {
+  margin-top: -10px;
+}
+.wordD .container .row div {
+  margin-left: 10px;
+}
+.wordD .container .row div a {
+  color: #000;
+}
+.wordD .container .row div a span {
+  font-size: 18px;
+  margin-left: 4px;
+}
+.wordD .container .row div a p {
+  font-size: 10px;
+}

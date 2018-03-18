@@ -1,0 +1,91 @@
+#YYsortnav3 {
+  padding: 0;
+}
+#YYindex-1 {
+  padding-top: 4px;
+  line-height: 16px;
+}
+#YYindex-1 a span {
+  color: #000;
+  margin-left: 10px;
+  font-size: 20px;
+  margin-top: 2px;
+}
+#YYindex-2 ul {
+  list-style: none;
+  margin-left: -40px;
+}
+#YYindex-2 ul li {
+  float: left;
+  padding-left: 20px;
+  margin-top: 4px;
+}
+#YYindex-2 ul li:nth-of-type(1) .bar {
+  width: 100%;
+  height: 2px;
+  background: #000;
+  margin-top: 6px;
+}
+#YYindex-3 {
+  padding-top: 4px;
+}
+#YYindex-3 span {
+  font-size: 20px;
+  margin-top: 2px;
+}
+#YYmyCarousel {
+  margin-top: 30px;
+}
+#YYmyCarousel .carousel-inner div {
+  background: rgba(218, 207, 207, 0.4);
+}
+#YYmyCarousel .carousel-inner div img {
+  margin: 0 auto;
+}
+.writeProduct .container h5 {
+  color: #000;
+  opacity: 0.8;
+  font-weight: bold;
+  line-height: 22px;
+}
+.writeProduct .container p {
+  color: red;
+  font-size: 12px;
+}
+.writeProduct .container p:nth-of-type(2) {
+  font-weight: bold;
+  font-size: 20px;
+}
+#myModalLabel {
+  margin-left: 10px;
+  color: red;
+  font-weight: bold;
+}
+.modal-body .active {
+  background: red;
+  color: #fff;
+}
+.ImgProduct2 {
+  display: none;
+}
+.ImgProduct3 {
+  display: none;
+}
+.ImgProduct4 {
+  display: none;
+}
+.choice1 .container .choice2 div p:nth-of-type(2) {
+  font-size: 14px;
+  color: red;
+}
+.choice1 .container .choice2 div a {
+  color: #000;
+  font-size: 12px;
+  border: 1px solid #000;
+}
+.more1 .container {
+  margin-top: 40px;
+}
+.more1 .container p {
+  font-size: 12px;
+}
