@@ -14,7 +14,7 @@
 
 ![Image text](https://github.com/lilyping/-bootstrap-/blob/master/graduration-design1/img/6.png)
 
-#### 1.bootstrap使用
+#### bootstrap使用
 >使用栅格系统进行排版和布局；还使用其他的UI组件：下拉菜单组件，轮播插件，模态框插件等等；
 
 #### less前端框架--编写模块化的样式文件
