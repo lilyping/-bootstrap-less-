@@ -1,5 +1,19 @@
 # -bootstrap-
 
+效果图
+
+![Image text](https://github.com/lilyping/-bootstrap-/blob/master/graduration-design1/img/1.png)
+
+![Image text](https://github.com/lilyping/-bootstrap-/blob/master/graduration-design1/img/2.png)
+
+![Image text](https://github.com/lilyping/-bootstrap-/blob/master/graduration-design1/img/3.png)
+
+![Image text](https://github.com/lilyping/-bootstrap-/blob/master/graduration-design1/img/4.png)
+
+![Image text](https://github.com/lilyping/-bootstrap-/blob/master/graduration-design1/img/5.png)
+
+![Image text](https://github.com/lilyping/-bootstrap-/blob/master/graduration-design1/img/6.png)
+
 #### 1.bootstrap使用
 >使用栅格系统进行排版和布局；还使用其他的UI组件：下拉菜单组件，轮播插件，模态框插件等等；
 
